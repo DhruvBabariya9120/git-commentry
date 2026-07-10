@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "The Beautiful Code",
+  title: "Git Commentry",
   description: "Your GitHub year, commentated like a World Cup final.",
 };
 

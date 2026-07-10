@@ -1,4 +1,4 @@
-# ⚽ The Beautiful Code
+# ⚽ Git Commentry
 
 > Your GitHub year, commentated like a World Cup final.
 

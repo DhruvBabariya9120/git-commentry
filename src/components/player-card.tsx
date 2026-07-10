@@ -29,7 +29,7 @@ export function PlayerCardView({ stats, card }: { stats: MatchStats; card: Playe
   }
 
   async function share() {
-    const text = `⚽ ${stats.name ?? stats.login} rated ${card.rating} as "${card.position}" on The Beautiful Code — your GitHub year, commentated like a World Cup final.`;
+    const text = `⚽ ${stats.name ?? stats.login} rated ${card.rating} as "${card.position}" on Git Commentry — your GitHub year, commentated like a World Cup final.`;
     try {
       await navigator.clipboard.writeText(`${text} ${window.location.origin}`);
       toast.success("Copied — paste it anywhere!");

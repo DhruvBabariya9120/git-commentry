@@ -35,7 +35,7 @@ export default function Home() {
         <p className="text-sm font-medium uppercase tracking-widest text-muted-foreground">
           ⚽ Weekend Challenge · Passion Edition
         </p>
-        <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">The Beautiful Code</h1>
+        <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">Git Commentry</h1>
         <p className="text-lg text-muted-foreground">
           Your GitHub year, commentated like a World Cup final.
         </p>
